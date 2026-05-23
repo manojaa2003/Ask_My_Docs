@@ -169,6 +169,17 @@ The following examples were run against a set of documents about human biology
 > *Source: human_digestive_system.pdf — Page 1*
 
 ---
+**Q5: summarise the flow of food in digestive system**
+
+> The flow of food in the digestive system is as follows:
+Food is chewed in the mouth and mixed with saliva.
+It then travels through the esophagus into the stomach, where acids and enzymes help digest proteins.
+The partially digested food then moves to the small intestine, where nutrients are absorbed into the bloodstream.
+Finally, it moves to the large intestine, where water is absorbed and waste products are formed.
+>
+> *Source: human_digestive_system.pdf — Page 1 & 2*
+
+---
 
 ## ✅ What Worked Well
 
